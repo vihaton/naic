@@ -107,3 +107,11 @@ venv.bak/
 #### my own
 
 notes/
+.tar
+
+# feature extraction
+val_1000/
+
+# finetune
+256_ObjectCategories/
+caltech_256_train_60/
