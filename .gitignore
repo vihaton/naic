@@ -107,7 +107,7 @@ venv.bak/
 #### my own
 
 notes/
-.tar
+*.tar
 
 # feature extraction
 val_1000/
